@@ -1,0 +1,17 @@
+img {
+  max-width: 25%;
+  height: auto;
+  padding: 2em;
+}
+
+body {
+  font-family: Snell Roundhand, cursive;
+  background-color: #ddd1c7;
+  color: #7e8987;
+}
+
+h1 {
+  text-align: center;
+  font-size: 700%;
+  color: #4B4A67;
+}
