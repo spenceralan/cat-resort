@@ -3,6 +3,7 @@ img {
   height: max;
   padding: 2em;
   text-align: center;
+  border:10px solid #84dcc6
 }
 
 body {
@@ -19,7 +20,7 @@ p {
 h1 {
   text-align: center;
   font-size: 700%;
-  color: #4B4A67;
+  color: #4b436d;
 }
 
 h2 {
