@@ -14,7 +14,7 @@ Examples: Chrome, Safari
 
 ### Installing
 
-Installation is quick and easy! Either open this link https://spenceralan.github.io/cat-resort/ to see the webpage in action or cloan this repository to your machine and open the index.html file!
+Installation is quick and easy! Either open this link https://spenceralan.github.io/cat-resort/ to see the webpage in action or clone this repository to your machine and open the index.html file!
 
 ## Built With
 
