@@ -1,14 +1,17 @@
+
 img {
-  max-width: 25%;
+  max-width: 50%;
   height: max;
   padding: 2em;
   text-align: center;
+  border:10px solid #84dcc6
 }
 
 body {
-  font-family: Snell Roundhand, cursive;
-  background-color: #ddd1c7;
-  color: #7e8987;
+  font-family: Impact, fantasy;
+  background-color: #ffffff;
+  color: #4b436d;
+  text-align: center;
 }
 
 p {
@@ -19,7 +22,7 @@ p {
 h1 {
   text-align: center;
   font-size: 700%;
-  color: #4B4A67;
+  color: #4b436d;
 }
 
 h2 {
